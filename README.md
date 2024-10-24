@@ -30,8 +30,8 @@ This project is a simple **To-Do List Application** built using the **MERN stack
 
 ### Clone the Repository
 ```bash
-git clone https://github.com/yourusername/todo-app.git
-cd todo-app
+git clone https://github.com/NalagamdinniRaju/todo-application.git
+cd todoApplication
 ```
 
 ### Backend Setup
@@ -43,7 +43,7 @@ cd todo-app
 
 2. **Create a `.env` file** in the `server` directory and add the following:
    ```bash
-   MONGO_URI=mongodb://localhost:27017/todolist
+   MONGO_URI = mongodb+srv://NRSRaju:Raju9398@cluster0.0n9qgog.mongodb.net/todo-application?retryWrites=true&w=majority&appName=Cluster0
    ```
 
 3. **Run the backend server**:
